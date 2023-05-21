@@ -2,7 +2,7 @@
 description: This is my gitbook page to handle both school and personal projects.
 ---
 
-Check out my tech journal: https://github.com/squatchulator/Tech-Journal/wiki 
+**Check out my tech journal here:** https://github.com/squatchulator/Tech-Journal/wiki 
 
 # 💾 Welcome!
 
